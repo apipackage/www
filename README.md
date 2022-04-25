@@ -3,6 +3,14 @@
 + api register
 + app register
 
+with our API you can add all your 
+
+We are using blog to show changes on projects, share ideas
+
+wordpress.apipackages.com with RSS to share the desceription of package
+
+
+
 
 
 ---
